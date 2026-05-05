@@ -1,2 +1,17 @@
-# gaming-landing-page
-– Developed a modern landing page using HTML and CSS with integrated icons (Font Awesome) – Designed structured layout including navigation bar, hero section, and UI components – Implemented clean styling and layout techniques for better user experience
+# Gaming Landing Page
+
+A modern landing page built using HTML and CSS for a gaming-themed website.
+
+## Features
+- Responsive navigation bar
+- Hero section with call-to-action buttons
+- Font Awesome icons integration
+- Clean and structured layout
+
+## Technologies Used
+- HTML
+- CSS
+- Font Awesome
+
+## How to Run
+Open index.html in your browser
